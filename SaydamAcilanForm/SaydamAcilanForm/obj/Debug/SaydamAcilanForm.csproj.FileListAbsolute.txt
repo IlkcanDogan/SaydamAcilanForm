@@ -1,0 +1,10 @@
+C:\Users\MKA\Desktop\Programlar\SaydamAcilanForm\SaydamAcilanForm\bin\Debug\SaydamAcilanForm.exe.config
+C:\Users\MKA\Desktop\Programlar\SaydamAcilanForm\SaydamAcilanForm\bin\Debug\SaydamAcilanForm.exe
+C:\Users\MKA\Desktop\Programlar\SaydamAcilanForm\SaydamAcilanForm\bin\Debug\SaydamAcilanForm.pdb
+C:\Users\MKA\Desktop\Programlar\SaydamAcilanForm\SaydamAcilanForm\obj\Debug\SaydamAcilanForm.csprojAssemblyReference.cache
+C:\Users\MKA\Desktop\Programlar\SaydamAcilanForm\SaydamAcilanForm\obj\Debug\SaydamAcilanForm.Form1.resources
+C:\Users\MKA\Desktop\Programlar\SaydamAcilanForm\SaydamAcilanForm\obj\Debug\SaydamAcilanForm.Properties.Resources.resources
+C:\Users\MKA\Desktop\Programlar\SaydamAcilanForm\SaydamAcilanForm\obj\Debug\SaydamAcilanForm.csproj.GenerateResource.cache
+C:\Users\MKA\Desktop\Programlar\SaydamAcilanForm\SaydamAcilanForm\obj\Debug\SaydamAcilanForm.csproj.CoreCompileInputs.cache
+C:\Users\MKA\Desktop\Programlar\SaydamAcilanForm\SaydamAcilanForm\obj\Debug\SaydamAcilanForm.exe
+C:\Users\MKA\Desktop\Programlar\SaydamAcilanForm\SaydamAcilanForm\obj\Debug\SaydamAcilanForm.pdb
